@@ -1,0 +1,85 @@
+{
+  "transations": [
+    {
+      "description": "Desenvolvimento de API - CRUD",
+      "price": 4500,
+      "category": "Desenvolvimento ",
+      "body": "income",
+      "id": "2dea24ca-deaf-47c5-b077-7e751f778d76",
+      "createdAt": "11/06/2023",
+      "updatedAt": "11/06/2023"
+    },
+    {
+      "description": "Marmita do almoço",
+      "price": 32,
+      "category": "Compra de comida",
+      "body": "outcome",
+      "id": "a850dbba-6a7b-4b1b-92cb-55eb702167ba",
+      "createdAt": "12/06/2023",
+      "updatedAt": "12/06/2023"
+    },
+    {
+      "description": "Salário do mês",
+      "price": 1823,
+      "category": "Salário ",
+      "body": "income",
+      "id": "68bf2164-a1ad-4873-997f-5f9c0b82ba2d",
+      "createdAt": "12/06/2023",
+      "updatedAt": "12/06/2023"
+    },
+    {
+      "description": "Pagamento do consócio",
+      "price": 658,
+      "category": "consócio",
+      "body": "outcome",
+      "id": "205b07af-d3c1-4e79-ac4b-0a14bc4a3c04",
+      "createdAt": "12/06/2023",
+      "updatedAt": "12/06/2023"
+    },
+    {
+      "description": "teste",
+      "price": 1,
+      "category": "consócio",
+      "body": "income",
+      "id": "840fb42a-58f1-430a-9909-95b4fff09df2",
+      "createdAt": "12/06/2023",
+      "updatedAt": "12/06/2023"
+    },
+    {
+      "description": "teste 2",
+      "price": 122,
+      "category": "Salário",
+      "body": "income",
+      "id": "b7e24117-9bf0-42fe-8025-fdd03c9471d5",
+      "createdAt": "12/06/2023",
+      "updatedAt": "12/06/2023"
+    },
+    {
+      "description": "213",
+      "price": 123,
+      "category": "12",
+      "body": "income",
+      "id": "aaa65925-b039-42f4-a504-70f5375f66a2",
+      "createdAt": "12/06/2023",
+      "updatedAt": "12/06/2023"
+    },
+    {
+      "description": "Pagamento do consócio da moto",
+      "price": 2000,
+      "category": "Compra",
+      "body": "outcome",
+      "id": "6252da87-f2ff-42f6-a498-f751b182de37",
+      "createdAt": "12/06/2023",
+      "updatedAt": "12/06/2023"
+    },
+    {
+      "description": "erer",
+      "price": 343,
+      "category": "fdfd",
+      "body": "income",
+      "id": "ba0b210c-0442-471d-a3b5-e52153704a01",
+      "createdAt": "12/06/2023",
+      "updatedAt": "12/06/2023"
+    }
+  ]
+}
